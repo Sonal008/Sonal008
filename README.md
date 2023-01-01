@@ -9,7 +9,6 @@
 <h4> Currently learning: Statistics | ML | NN | NLP </h4>
 
 ### Find me around the web 🌍 
-<a href="https://github.com/Sonal008">  <img align="center" src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" width="50" height="50" alt="github"> </a>
 <a href="https://twitter.com/Sonal86569019">  <img align="center" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" width="50" height="50" alt="twitter"> </a>
 <a href="https://www.linkedin.com/in/sonalsonawane08/"><img align="center" src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" width="50" height="50" alt="linkedin"></a>
 <a href="https://www.instagram.com/"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width="50" height="50" alt="instagram"></img></a>
