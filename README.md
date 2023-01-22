@@ -1,3 +1,4 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/Sonal008/Sonal008?style=for-the-badge)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=tokyonight&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;HERE+TO+EXPLORE+AI+AND+MACHINE+LEARNING;LET'S+MAKE+OPEN+SOURCE+MORE+ACCESSIBLE)](https://git.io/typing-svg)
 
 <img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="500" height="300" alt="girl coding img" >
