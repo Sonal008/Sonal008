@@ -2,11 +2,11 @@
 
 <img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="500" height="300" alt="girl coding img" >
 
-### Sonal this side!
+### Sonal here!
 
 <h4> 🌱 A Data Science enthusiast | 🌱 An Engineer | 🌱An avid Writer </h4>
 
-<h4> Currently learning: Statistics | ML | NN | NLP </h4>
+<h4> Presently working as a Project Intern </h4>
 
 ### Find me around the web 🌍 
 <a href="https://twitter.com/Sonal86569019">  <img align="center" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" width="50" height="50" alt="twitter"> </a>
@@ -15,3 +15,5 @@
 <a href="https://medium.com/@Sonal_Sonawane"><img align="center" src="https://seeklogo.com/images/M/medium-logo-F0ACFCCD58-seeklogo.com.png" width="50" height="50" alt="medium"></img></a>
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Sonal008/Sonal008?style=for-the-badge)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonal008&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
