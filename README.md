@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm SONAL SONAWANE</h1>
 <p align="left">
 
-<img align="right" alt="Coding" src="https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2021/m02/how-technology-empowers-women-in-stem/_jcr_content/root/hero.coreimg.gif/1639580970719/netacad-camille-stephanie-feature-800x450-thumb-021121-animated-gif-2140879-1-0.gif" style="max-width: 200%; display: inline-block; height:300px">
+<img align="right" alt="Coding" src="https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2021/m02/how-technology-empowers-women-in-stem/_jcr_content/root/hero.coreimg.gif/1639580970719/netacad-camille-stephanie-feature-800x450-thumb-021121-animated-gif-2140879-1-0.gif" style="max-width: 100%; display: inline-block; height:300px">
 
 - 🌱 Presently learning **Machine Learning, NLP, Deep Learning**
 - 👨‍💻 All of my projects are available at [https://github.com/Sonal008](https://github.com/Sonal008)
