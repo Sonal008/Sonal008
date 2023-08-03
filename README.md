@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/sonalsonawane08" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonalsonawane08" height="30" width="40" /></a>
 <a href="https://kaggle.com/amanovishnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amanovishnu" height="30" width="40" /></a>
-<a href="https://twitter.com/amanovishnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amanovishnu" height="30" width="40" /></a>
+<a href="https://twitter.com/Sonal86569019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sonal86569019" height="30" width="40" /></a>
 </p>
 
 
