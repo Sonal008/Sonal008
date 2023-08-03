@@ -4,14 +4,15 @@
 <img align="right" style="max-width: 50%; height:300px" alt="Coding" src="https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2021/m02/how-technology-empowers-women-in-stem/_jcr_content/root/hero.coreimg.gif/1639580970719/netacad-camille-stephanie-feature-800x450-thumb-021121-animated-gif-2140879-1-0.gif" >
 
 - 🌱 Presently learning **Machine Learning, NLP, Deep Learning**
-- 👨‍💻 All of my projects are available at [https://github.com/Sonal008](https://github.com/Sonal008)
 - 📫 How to reach me **sonnalsonawane95@gmail.com**
+- 👨‍💻 You can find my work so far over [https://github.com/Sonal008](https://github.com/Sonal008)
 - 📄 Know about my experiences [https://www.linkedin.com/in/sonalsonawane08/](https://www.linkedin.com/in/sonalsonawane08/)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sonalsonawane08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonalsonawane08" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sonalsonawane08" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonalsonawane08" height="30" width="40" /></a>
 <a href="https://kaggle.com/amanovishnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amanovishnu" height="30" width="40" /></a>
 <a href="https://twitter.com/amanovishnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amanovishnu" height="30" width="40" /></a>
 </p>
