@@ -5,7 +5,7 @@
 
 - 🌱 Presently learning **Machine Learning, NLP, Deep Learning**
 - 📫 How to reach me **sonnalsonawane95@gmail.com**
-- 👨‍💻 You can find my work so far over [https://github.com/Sonal008](https://github.com/Sonal008)
+- 👨‍💻 You can find my work here: [https://github.com/Sonal008](https://github.com/Sonal008)
 - 📄 Know about my experiences [https://www.linkedin.com/in/sonalsonawane08/](https://www.linkedin.com/in/sonalsonawane08/)
 
 
